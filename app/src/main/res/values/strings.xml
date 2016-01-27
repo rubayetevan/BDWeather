@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">BDWeather</string>
+    <string-array name="division_array">
+        <item>Khulna</item>
+        <item>Dhaka</item>
+        <item>Rajshahi</item>
+        <item>Sylhet</item>
+        <item>Barisal</item>
+        <item>Chittagong</item>
+        <item>Rangpur</item>
+    </string-array>
+    <string-array name="dhaka_zilla_array">
+        <item>Dhaka</item>
+        <item>Faridpur</item>
+        <item>Gazipur</item>
+        <item>Gopalganj</item>
+        <item>Jamalpur</item>
+        <item>Kishorganj</item>
+        <item>Madaripur</item>
+        <item>Norshingdi</item>
+        <item>Manikganj</item>
+        <item>Munshiganj</item>
+        <item>Narayanganj</item>
+        <item>Mymensingh</item>
+        <item>Netrokona</item>
+        <item>Rajbari</item>
+        <item>Shariatpur</item>
+        <item>Sherpur</item>
+        <item>Tangail</item>
+    </string-array>
+    <string-array name="barisal_zilla_array">
+        <item>Borguna</item>
+        <item>Barisal</item>
+        <item>Bhola</item>
+        <item>Jhalokathi</item>
+        <item>Potuakhali</item>
+        <item>Perojpur</item>
+    </string-array>
+    <string-array name="khulna_zilla_array">
+        <item>Bagerhat</item>
+        <item>Chuadanga</item>
+        <item>Jessore</item>
+        <item>Jhenaidah</item>
+        <item>Khulna</item>
+        <item>Kushtia</item>
+        <item>Magura</item>
+        <item>Meherpur</item>
+        <item>Narail</item>
+        <item>Satkhira</item>
+    </string-array>
+    <string-array name="rajshahi_zilla_array">
+        <item>Bogra</item>
+        <item>ChapaiNawabganj</item>
+        <item>Joypurhat</item>
+        <item>Naogaon</item>
+        <item>Natore</item>
+        <item>Pabna</item>
+        <item>Rajshahi</item>
+        <item>Sirajganj</item>
+    </string-array>
+    <string-array name="sylhet_zilla_array">
+        <item>Habiganj</item>
+        <item>Moulvibazar</item>
+        <item>Sunamganj</item>
+        <item>Sylhet</item>
+    </string-array>
+    <string-array name="chittagong_zilla_array">
+        <item>Bandarban</item>
+        <item>Brahmanbaria</item>
+        <item>Chandpur</item>
+        <item>Chittagong</item>
+        <item>Comilla</item>
+        <item>CoxsBazar</item>
+        <item>Feni</item>
+        <item>Khagrachari</item>
+        <item>Laksmipur</item>
+        <item>Noakhali</item>
+        <item>Rangamati</item>
+    </string-array>
+    <string-array name="rangpur_zilla_array">
+        <item>Dinajpur</item>
+        <item>Gaibandha</item>
+        <item>Kurigram</item>
+        <item>Lalmonirhat</item>
+        <item>Nilphamari</item>
+        <item>Panchagarh</item>
+        <item>Rangpur</item>
+        <item>Thakurgaon</item>
+    </string-array>
+
+</resources>
