@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
     String location;
 
     String urlO1="http://api.openweathermap.org/data/2.5/weather?q=";
-    String urlO2=",BD&appid=2de143494c0b295cca9337e1e96b00e0";
+    String urlO2=",BD&appid=44db6a862fba0b067b1930da0d769e98";//new appid=44db6a862fba0b067b1930da0d769e98 //old 2de143494c0b295cca9337e1e96b00e0
 
     String urlY1="https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text%3D%22";
     String urlY2="%2C%20bd%22)&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys";
