@@ -24,4 +24,6 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:23.1.1'
     compile 'com.mcxiaoke.volley:library:1.0.19'
+    compile 'com.pushbots:pushbots-lib:2.0.13@aar'
+    compile 'com.android.support:support-v4:21.0.0'
 }
